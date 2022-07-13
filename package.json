@@ -42,7 +42,7 @@
     "mnemonics": "clock radar mass judge dismiss just intact mind resemble fringe diary casino"
   },
   "devDependencies": {
-    "@openzeppelin/test-helpers": "^0.5.5",
+    "@openzeppelin/test-helpers": "0.5.10",
     "babel-cli": "^6.26.0",
     "babel-eslint": "10.0.1",
     "babel-polyfill": "^6.26.0",
