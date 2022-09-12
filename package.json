@@ -74,7 +74,7 @@
     "solium": "^1.1.8",
     "truffle": "5.0.34",
     "web3": "^1.0.0-beta.33",
-    "web3-eth-abi": "^1.0.0-beta.51"
+    "web3-eth-abi": "1.5.0-rc.0"
   },
   "dependencies": {
     "commander": "^4.0.1",
