@@ -63,7 +63,7 @@
     "eslint-plugin-node": "8.0.0",
     "eslint-plugin-promise": "4.0.1",
     "eslint-plugin-standard": "4.0.0",
-    "eth-gas-reporter": "0.1.12",
+    "eth-gas-reporter": "0.2.17",
     "eth-sig-util": "^2.1.1",
     "ethereumjs-wallet": "0.6.2",
     "ethers": "4.0.13",
