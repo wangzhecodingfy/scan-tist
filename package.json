@@ -69,13 +69,13 @@
     "safe-buffer": "5.1.2",
     "solidity-coverage": "^0.7.4",
     "solium": "^1.1.8",
-    "truffle": "5.0.34",
+    "truffle": "^5.5.5",
     "web3": "^1.0.0-beta.33",
     "web3-eth-abi": "^1.0.0-beta.51",
     "truffle-contract-size": "^1.0.1"
   },
   "dependencies": {
-    "@truffle/hdwallet-provider": "^1.4.0",
+    "@truffle/hdwallet-provider": "^2.1.1",
     "commander": "^4.0.1",
     "ethereumjs-abi": "^0.6.5",
     "ethereumjs-block": "2.1.0",
